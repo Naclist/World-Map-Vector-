@@ -6,3 +6,6 @@ A vector world map with correct Chinese border
 
 I can barely find any Atlantic-centered world maps in Chinese networks, while world maps on Google often lack a correct indication of China's boundaries. Here we offer you this vector map with correct China's boundary.
 The resolution of the borders is now so high. Not recommended for use as an accurate display.
+
+展示如下：
+![image](https://github.com/Naclist/World-Map-Vector/blob/main/Example1.png)
