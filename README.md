@@ -1,6 +1,8 @@
 # World-Map-Vector
 A vector world map with correct Chinese border
 
+Keywords: China Map vector; Map with correct China's boundaries
+
 中文互联网上缺少以大西洋为中心的圆柱透视世界地图，外文互联网上的世界地图往往缺少正确标注藏南与阿克钦赛地区的中国疆域。这里提供一份矢量图素材。
 国境分辨率不高，不建议作为精确展示使用。
 
