@@ -23,6 +23,7 @@ I can barely find any Atlantic-centered world maps in Chinese networks, while wo
 This map and the corresponding national border lines were manually generated with reference to [OpenStreetMap](https://www.openstreetmap.org/) and [the National Standard Map Service of China](http://bzdt.ch.mnr.gov.cn/index.html)*GS(2016)2923*, therefore adhering to the distribution [licenses](https://creativecommons.org/licenses/by-sa/2.0/) of the above two resources. If you wish to use this material, please attribute the source and contributors accordingly.
 
 Copyright © 2025 [Naclist](https://github.com/Naclist) aka Shengkai Li. Licensed under the [GNU License](https://github.com/Naclist/World-Map-Vector-/blob/main/LICENSE).
+
 <a href="https://doi.org/10.5281/zenodo.14821834"><img src="https://zenodo.org/badge/586111069.svg" alt="DOI"></a>
 
 
